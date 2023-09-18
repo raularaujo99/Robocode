@@ -1,6 +1,6 @@
 # Cyber Robocode
 
-https://github.com/raularaujo99/Robocode
+https://github.com/raularaujo99/Robocode.git
 
 ## Analise e Desenvolvimento de Sistemas
 
