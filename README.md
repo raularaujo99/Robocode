@@ -1,4 +1,4 @@
-# Cyber Robocode
+# Robocode
 
 https://github.com/raularaujo99/Robocode.git
 
